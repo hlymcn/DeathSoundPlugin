@@ -1,6 +1,6 @@
 # DeathSoundPlugin
 ## Overview
-DeathSoundPlugin is an innovative plugin designed for Counter-Strike: Source servers that enhances the gaming experience by playing a custom sound whenever a player dies. This plugin is currently in its early beta phase, offering a unique feature that adds an auditory dimension to the game, making it more immersive and engaging for players.
+DeathSoundPlugin is an innovative plugin designed for Counter-Strike 2 servers that enhances the gaming experience by playing a custom sound whenever a player dies. This plugin is currently in its early beta phase, offering a unique feature that adds an auditory dimension to the game, making it more immersive and engaging for players.
 
 ## Features
 Customizable Death Sounds: The plugin allows server administrators to define a list of custom sounds that play upon a player's death, adding a new layer of realism and excitement to the game.
